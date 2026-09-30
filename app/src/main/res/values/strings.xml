@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Together</string>
+    <string name="widget_duration_name">Relationship Duration</string>
+    <string name="widget_elapsed_time_name">Live Elapsed Time</string>
+</resources>
